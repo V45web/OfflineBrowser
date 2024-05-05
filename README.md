@@ -8,12 +8,12 @@ The name is offline browser but it not completely offline there are categorys an
 <strong>Please I want your help</strong> to build this project. To help me post your HTML pages,articles,news,blogs,pdf or anything else in my offline browser.
 To post <a href="#">Click here</a>
 
-<h1>Requirements</h1>
+<h3>Requirements</h3>
 <p>1.Maximum 10 MB per file.</p>
 <p>2.No CSS. (because it save data)</p>
 <p>3.No harmful content or NSFW</p>
 
-<h1>You Get</h1>
+<h3>You Get</h3>
 <p>✔️Unlimited Pages or files</p>
 <p>✔️images and videos</p>
 <p>✔️24/7 Support</p>
