@@ -15,7 +15,7 @@ To post <a href="#">Click here</a>
 
 <h1>You Get</h1>
 <p>✔️Unlimited Pages or files</p>
-<p>✔️images</p>
-<p></p>
-<p></p>
+<p>✔️images and videos</p>
+<p>✔️24/7 Support</p>
+<p>✔️Fully Free</p>
 
