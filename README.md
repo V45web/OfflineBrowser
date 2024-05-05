@@ -1,3 +1,5 @@
+<h3>The project is under development!</h3>
+
 <strong>
 Hello my name is Sanag.
 I am creating an offline browser people who have low data (internet) they can use this offline browser.
