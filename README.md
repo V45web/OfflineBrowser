@@ -1,7 +1,7 @@
-<h4>
+<strong>
 Hello my name is Sanag.
 I am creating an offline browser people who have low data (internet) they can use this offline browser.
-</h4>
+</strong>
 <h1>How it's work?</h1>
 The name is offline browser but it not completely offline there are categorys and list with different topics by clicking your topic it download the page which can see offline it is good for big articles which can use later.
 <h1>For devlopers and bloggers</h1>
