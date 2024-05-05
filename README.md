@@ -9,3 +9,6 @@ The name is offline browser but it not completely offline there are categorys an
 To post <a href="#">Click here</a>
 
 <h1>Requirements</h1>
+1.Maximum 10 MB per file.
+2.No CSS. (because it save data)
+3.No harmful content or 
